@@ -17,6 +17,7 @@ When it finishes, extract it
 
 **Step 2:**
 Go to setting or press Ctrl + S
+Then click this button on the top right of your screen
 ![image](https://github.com/user-attachments/assets/97cdfbd9-b13c-46e6-bdab-08cd1fd9fec9)
 
 

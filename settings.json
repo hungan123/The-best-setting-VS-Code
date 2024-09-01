@@ -1,0 +1,125 @@
+{
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontLigatures": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.smoothScrolling": true,
+    "editor.mouseWheelZoom": true,
+    "explorer.decorations.badges": true,
+    "terminal.integrated.fontSize": 19,
+    "editor.multiCursorMergeOverlapping": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.find.cursorMoveOnType": true,
+    "editor.defaultColorDecorators": true,
+    "window.zoomLevel": 1,
+    "html.validate.styles": false,
+    "html.validate.scripts": false,
+    "workbench.startupEditor": "none",
+    "workbench.editorAssociations": {
+        "*.cur": "default",
+        "*.xlsx": "default",
+        "*.ttf": "default"
+    },
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "workbench.editor.empty.hint": "hidden",
+    "editor.fontSize": 17,
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 0.5,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontWeight": "400",
+    "editor.cursorWidth": 5,
+    "editor.renderWhitespace": "all",
+    "editor.tokenColorCustomizations": {
+        "[Default Dark Modern]": {
+            "textMateRules": [
+                {
+                    "scope": ["comment", "punctuation.definition.string.begin", "punctuation.definition.string.end", "text.html"],
+                    "settings": {
+                        "foreground": "#3ebc6e",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": ["string"],
+                    "settings": {
+                        "foreground": "#84ff5f",
+                        "fontStyle": ""
+                    }
+                },
+                {
+                    "scope": ["variable"],
+                    "settings": {
+                        "foreground": "#66f7ff",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": ["markup.bold"],
+                    "settings": {
+                        "foreground": "#ff6969",
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": ["markup.italic"],
+                    "settings": {
+                        "foreground": "#91f871",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": ["markup.fenced_code.block.markdown"],
+                    "settings": {
+                        "foreground": "#e0e29f",
+                        "fontStyle": "italic"
+                    }
+                }
+            ]
+        }
+    },
+    "editor.cursorBlinking": "expand",
+    "http.experimental.systemCertificatesV2": true,
+    "editor.fontFamily": "Jetbrains Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.stickyScroll.enabled": false,
+    "editor.indentSize": "tabSize",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "workbench.editor.splitInGroupLayout": "vertical",
+    "python.createEnvironment.trigger": "off",
+
+    "cmake.showOptionsMovedNotification": false,
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#2bc25b",
+        "statusBar.background": "#343c42",
+        "statusBar.noFolderBackground": "#68217A",
+        "statusBar.debuggingBackground": "#8B0000",
+        "sideBar.background": "#1e1e1e",
+        "editor.background": "#1e1e1e",
+        "editor.lineHighlightBackground": "#333333",
+        "editorLineNumber.foreground": "#00ff91",
+        "editor.selectionBackground": "#333",
+        "editor.lineHighlightBorder": "#2a2a2a",
+    },
+    "workbench.editor.highlightModifiedTabs": true,
+    "window.titleBarStyle": "custom",
+    "editor.formatOnSave": true,
+    "workbench.layoutControl.enabled": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+}
